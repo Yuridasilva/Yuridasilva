@@ -4,7 +4,7 @@
 ![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Blog](    https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuridasilva&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuridasilva&show_icons=true&theme=)
 
 ### TECNOLOGIAS QUE EU USO NO DIA A DIA
 
