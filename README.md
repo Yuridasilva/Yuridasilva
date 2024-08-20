@@ -1,16 +1,18 @@
-## Hi there 👋
+### OLA EU SOU O YURI 🔥🔥🔥
+![ Blog](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Blog](    https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) 
 
-<!--
-**Yuridasilva/Yuridasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuridasilva&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+### TECNOLOGIAS QUE EU USO NO DIA A DIA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![ Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuridasilva&layout=donut-vertical)](https://github.com/anuraga/github-readme-stats)
